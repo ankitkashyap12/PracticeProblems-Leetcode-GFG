@@ -36,7 +36,7 @@ class Main {
 class Solution {
 
     public long factorial(int N) {
-        if(N==0){
+        if(N<=1){
             return 1;
         }
         else{
