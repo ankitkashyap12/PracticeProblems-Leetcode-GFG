@@ -7,9 +7,7 @@ class Solution {
                 int[] indices={indicesValue.get(diff),i};
                  return indices;
             }
-            else{
-                indicesValue.put(nums[i],i);
-            }
+            indicesValue.put(nums[i],i);
         }
         return null;
 }
