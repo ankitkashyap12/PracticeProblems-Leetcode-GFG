@@ -3,9 +3,9 @@ class Solution {
         Map<Integer,Integer> indicesValue=new HashMap<>();
         for(int i=0;i<nums.length;i++){
             int diff = target-nums[i];
-            if(indicesValue.get(diff)!=null){
-                int[] indices={indicesValue.get(diff),i};
-                 return indices;
+            Integer diffInd;
+            if((diffInd = indicesValue.get(diff))!=null){
+               return new int[] {diffInd,i};
             }
             indicesValue.put(nums[i],i);
         }
