@@ -18,7 +18,7 @@ class Solution
        int count=0;
        if(n==0)
         return 0;
-       while(n>=0){
+       while(n>0){
            if(!(n & 1)){
                count++; //it is zero here hence increase index count
            }
