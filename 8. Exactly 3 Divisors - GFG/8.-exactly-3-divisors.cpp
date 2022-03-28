@@ -15,12 +15,10 @@ class Solution{
     {
        int count=0;
        if(N<=1) return 0;
-       int sqrtN = (int)sqrt(N);
        for(int i=2;i*i<=N;i++){
            if(isPrime(i)) {
                if( i*i<=N)
                     count++;
-            //   cout<<i*i<<" ";
            }
        }
        return count;
