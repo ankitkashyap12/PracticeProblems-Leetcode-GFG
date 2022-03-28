@@ -10,7 +10,8 @@ using namespace std;
 
 class Solution{
     public:
-    //Just check the prime number's perfect square
+    //Just check if the prime number's square is within range
+    //Squares of all prime numbers will always have 3 divisors
     int exactly3Divisors(int N)
     {
        int count=0;
@@ -18,7 +19,7 @@ class Solution{
        for(int i=2;i*i<=N;i++){
            if(isPrime(i)) {
                if( i*i<=N)
-                    count++;
+                   count++;
            }
        }
        return count;
