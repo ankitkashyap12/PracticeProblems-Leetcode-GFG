@@ -27,7 +27,6 @@ class Solution{
             //Multiplying it with the (current power of 2)/2 will 
             //give the count of 1s in the current bit.
             count += quotient * x / 2;
-            
             int remainder = n%x;
             //If the count of pairs is odd then we add the remaining 1s 
             //which could not be grouped together. 
