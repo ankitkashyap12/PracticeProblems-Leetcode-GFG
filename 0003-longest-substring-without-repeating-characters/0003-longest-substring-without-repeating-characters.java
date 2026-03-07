@@ -1,6 +1,31 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        //int firstPt=0;
+        return optimizedSlidingWindow(s);
+    }
+
+    int optimizedSlidingWindow(String s){
+        int left=0;
+        int right=0;
+         if(s.length()==0)
+            return 0;
+        
+        Integer maxSize=Integer.MIN_VALUE;
+        Set<Character> seenChar= new HashSet<>();
+        for(right=0;right<s.length();right++){
+            char currChar = s.charAt(right);
+           while(seenChar.contains(s.charAt(right))){
+            seenChar.remove(s.charAt(left));
+            left++;
+           }
+           seenChar.add(s.charAt(right));
+           maxSize=Math.max(maxSize,right-left+1);
+
+        }
+        return maxSize;
+    }
+
+    int bruteSlidingWindow(String s){
+         //int firstPt=0;
         int len = s.length();
         if(len==0)
             return 0;
