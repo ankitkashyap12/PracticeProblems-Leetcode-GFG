@@ -1,5 +1,5 @@
 # PracticeProblem-Leetcode-GFG-
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions to ace the coding interview! -
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -11,6 +11,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/0238-product-of-array-except-self) |
+| [ArrayOfProducts](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/ArrayOfProducts) |
+| [BestSeat](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/BestSeat) |
+| [CombinationSum](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/CombinationSum) |
+| [FirstDuplicateValue](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/FirstDuplicateValue) |
+| [LongestPeak](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/LongestPeak) |
+| [MajorityElement](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/MajorityElement) |
+| [MergeOverlappinIntervals](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/MergeOverlappinIntervals) |
+| [MonotonicArray](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/MonotonicArray) |
+| [MoveToEnd](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/MoveToEnd) |
+| [NonConstructibleChange](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/NonConstructibleChange) |
+| [SmallestDifference](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/SmallestDifference) |
+| [SortedSquaredArray](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/SortedSquaredArray) |
+| [SpiralMatrixTraversal](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/SpiralMatrixTraversal) |
+| [SweetAndSavoury](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/SweetAndSavoury) |
+| [TournamentWinner](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/TournamentWinner) |
+| [TransposeMatrix](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/TransposeMatrix) |
+| [TripleSum](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/TripleSum) |
+| [TwoSum](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/TwoSum) |
+| [ValidateSubsequence](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/ValidateSubsequence) |
+| [ZeroSumSubArray](https://github.com/ankitkashyap12/PracticeProblems-Leetcode-GFG/tree/master/ZeroSumSubArray) |
 ## Hash Table
 |  |
 | ------- |
